@@ -7,7 +7,9 @@ You need to start the bot on your computer.
 2. Make a new Steam account for bot.
 3. Put the username and password in "config.json". (2FA must be disabled)
 4. Put the Amazon AWS keys in "config.json".
-5. Open "start.vbs". It will start the bot in the background.
+5. Install requirements by using 'pip install -r requirements.txt'
+6. Install SteamUser module with 'npm install steam-user'
+7. Open "start.vbs". It will start the bot in the background.
 
 # Commands
 - ".commands" - Shows all commands
